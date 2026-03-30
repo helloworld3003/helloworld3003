@@ -1,7 +1,5 @@
 # Hi there! I'm Tapomoy Sarkar 👋
 
-Welcome to my GitHub profile! I'm a passionate engineer-in-training who loves building unique projects and exploring the intersection of core engineering, mathematics, and code.
-
 ### 👨‍💻 About Me
 * 🎓 Currently pursuing a **B.Tech in Power Engineering** at **Jadavpur University**.
 * 🧠 Deeply interested in **Artificial Intelligence** and **Machine Learning**.
@@ -15,6 +13,3 @@ Welcome to my GitHub profile! I'm a passionate engineer-in-training who loves bu
 ### 🚀 Featured Projects
 * **Desktop Icon Snake Game 🐍** A unique, custom-built Python game where classic Snake mechanics are brought to the desktop environment by dynamically dragging and organizing actual desktop icons.
 
-### 📫 Let's Connect!
-* **Email:** sarkartapomoy12nov@gmail.com
-* **LinkedIn:** www.linkedin.com/in/tapomoy-sarkar-78a616385
